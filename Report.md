@@ -59,3 +59,6 @@
    - Checked logs for successful requests
 
 All issues have been resolved, and the application is now running successfully with proper communication between services and correct request handling.
+
+# Cloud Deployment
+IP Address- http://13.61.11.104/
